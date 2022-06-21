@@ -1,0 +1,4 @@
+- 👋 eu sou, @ariranha041
+- meu email de contato rodrigues.santos.carlos@escola.pr.gov.br
+- 👀 eu estou interessado em programar novas linguagens
+- 🌱 eu estou aprendendo a programar recentemente a linguagem javaScript e Scratch
